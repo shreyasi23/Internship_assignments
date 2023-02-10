@@ -1,2 +1,7 @@
 # internship_assignments
-## frontend branch: html css bootstrap js
+
+### frontend branch
+Containes HTML, CSS, Bootstrap and JavaScript assignments
+
+### DBMS branch
+Containes DBMS related assignments
