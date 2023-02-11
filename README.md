@@ -6,5 +6,5 @@ Containes HTML, CSS, Bootstrap and JavaScript assignments
 ### DBMS branch
 Containes DBMS assignments
 
-### backend branch
+### Backend branch
 Containes Java assignments
